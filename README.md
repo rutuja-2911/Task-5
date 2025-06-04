@@ -2,7 +2,7 @@
 ## Objective
 This project performs exploratory data analysis (EDA) on a Kaggle-style Titanic leaderboard dataset. The goal is to derive insights from submission scores, ranks, and submission frequencies.
 
-**Tolls Used:** Jupyter Notebook
+**Tools Used:** Jupyter Notebook
 ## Dataset
 The dataset contains public leaderboard information including:
 Rank: Leaderboard position of the team
